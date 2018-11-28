@@ -1,12 +1,12 @@
 basic-settings:
-    name: ''
-    token: ''
-    prefix: ''
-    server: ''
+    name: 'KingX'
+    token: 'NTE3MzE4NTI4NjU5ODgxOTk1.DuAeEQ.gWLzJbjrqLyCBqeSZM5sSwNctYw'
+    prefix: '-'
+    server: '420676267004919818'
     ops:
     - '145064570237485056'
     embed-colour: '#fbae1d'
-    game-status: ''
+    game-status: 'KingX'
 database:
     host: ''
     port: ''
@@ -18,5 +18,5 @@ more-settings:
     autorole-enabled: true
 staff-ratings:
     enabled: true
-    staff-role: ''
-    channels: []
+    staff-role: 'Mod'
+    channels: [498286486718775327'420676267004919820]
